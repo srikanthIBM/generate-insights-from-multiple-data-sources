@@ -251,14 +251,23 @@ You as a developer have the flexibility to define the user workflow and control 
 The IBM Cognos Dashboard Embedded lets you, the developer, painlessly add end-to-end data visualization capabilities to your application so your users can easily drag and drop to quickly find valuable insight and create visualizations on their own.
 
 
-#### Provisioning a Dashboard Embedded analytics service Instance to the Watson Studio Project
+#### (i) Provisioning a Dashboard Embedded analytics service Instance to the Watson Studio Project
 
-* Click on Add to Project button to add the Embedded Dashboard service.
+* Click on "Add to Project" button to add the Embedded Dashboard Analytics service.
 
-Step 1: Provisioning a Cognos Dashboard Embedded service instance
-You can create one or more instances of the Cognos Dashboard Embedded service.
+Pic URL
 
-Note: The Lite pricing plan is unrestricted. When the Cognos Dashboard Embedded service becomes generally available, quotas will be enforced for the entire account. Creating additional Lite plans will share the same quota.
+*  Create the New Embedded Dashboard service or if you already have one then from the drop down prompt, select the Dashboard Embedded service from the list. And click on Save button in the bottom.
+
+Pic URL
+
+* Select the Template for your Dashboard.
+
+Pic URL
+
+* 
+
+
 
 
 <!--Optionally, include any troubleshooting tips (driver issues, etc)-->
