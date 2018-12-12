@@ -38,7 +38,9 @@ Please follow the below to setup and run this code pattern.
 5. [Add the Db2 connection](#5-add-the-db2-connection)
 6. [Add the Db2 Warehouse connection](#6-add-the-db2-warehouse-connection)
 7. [Update the notebook with credentials and Db2 Warehouse table name](#7-update-the-notebook-with-crediantials-and-db2-warehouse-table-name)
-8. [Run the notebook](#8-run-the-notebook)
+8. [Run the notebook](#9-run-the-notebook)
+9. [Visualize and Derive Insights using Embedded Dashboard Analytics](#9-Visualize-and-Derive-Insights-using-Embedded-Dashboard-Analytics)
+
 
 ### 1. Clone the repo
 
@@ -239,6 +241,25 @@ There are several ways to execute the code cells in your notebook:
     time, or repeatedly at your specified interval.
 
 For this Notebook, you can simply `Run All` cells.
+
+## 9. Visualize and Derive Insights using Embedded Dashboard Analytics
+
+### Embedded Dashboard Analytics 
+
+IBM® Cognos Dashboard Embedded Analytics provides developers the ability to embed a visualization platform directly into their application. Power analytics for your customers, either as standalone dashboards or integrated into your application. Develop your own analytics solution easily by using embedded dashboards and reports and save months of development effort.
+You as a developer have the flexibility to define the user workflow and control the options available to users. You can choose from a guided exploration of the analysis through authored fixed dashboards, to a free-form analytic exploration environment in which users choose their own visualizations – and virtually anything in between.
+The IBM Cognos Dashboard Embedded lets you, the developer, painlessly add end-to-end data visualization capabilities to your application so your users can easily drag and drop to quickly find valuable insight and create visualizations on their own.
+
+
+#### Provisioning a Dashboard Embedded analytics service Instance to the Watson Studio Project
+
+* Click on Add to Project button to add the Embedded Dashboard service.
+
+Step 1: Provisioning a Cognos Dashboard Embedded service instance
+You can create one or more instances of the Cognos Dashboard Embedded service.
+
+Note: The Lite pricing plan is unrestricted. When the Cognos Dashboard Embedded service becomes generally available, quotas will be enforced for the entire account. Creating additional Lite plans will share the same quota.
+
 
 <!--Optionally, include any troubleshooting tips (driver issues, etc)-->
 
