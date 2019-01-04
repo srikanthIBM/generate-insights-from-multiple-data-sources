@@ -263,19 +263,23 @@ The IBM Cognos Dashboard Embedded lets you, the developer, painlessly add end-to
 
 *  Create the New Embedded Dashboard service or if you already have one then from the drop down prompt, select the Dashboard Embedded service from the list. And click on Save button in the bottom.
 
-Pic URL - Select_CED_Service
+![](doc/source/images/Select_CED_Service.png)
+
 
 * Select the Template for your Dashboard.
 
-Pic URL- Template_selection
+![](doc/source/images/Template_selection.png)
+
 
 * Click on selected sources '+' button to connect to the DB2 Warehouse.
 
-Pic URL- Add_source_2_Dashboard
+![](doc/source/images/Add_source_2_Dashboard.png)
+
 
 * Connect to the DB2 Warehouse databse
 
-Pic URL - Connection_Source
+![](doc/source/images/Connection_Source.png)
+
 
 #### (iii) Creating the Dashboard
 
