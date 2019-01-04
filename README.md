@@ -256,7 +256,8 @@ The IBM Cognos Dashboard Embedded lets you, the developer, painlessly add end-to
 
 * Click on "Add to Project" button to add the Embedded Dashboard Analytics service.
 
-Pic URL - EDA_Add_to_Project
+![](doc/source/images/EDA_Add_to_Project.png)
+
 
 #### (ii) Creating the Embedded Dashboard service and connections
 
