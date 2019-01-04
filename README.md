@@ -276,10 +276,17 @@ The IBM Cognos Dashboard Embedded lets you, the developer, painlessly add end-to
 ![](doc/source/images/Add_source_2_Dashboard.png)
 
 
-* Connect to the DB2 Warehouse databse(DASH5989. See below screenshot for details.
+* Connect to the DB2 Warehouse databse(DASH5989). See below screenshot for details.
 
 ![](doc/source/images/Connection_Source.png)
 
+* After connecting to the DB2 Warehouse database, you will see `All` as a new datasource under the Selected Sources.
+
+![](doc/source/images/All_Data.jpg)
+
+* Click on `All` data source and now you can see the column names displayed vertically under `All`. These columns can be used for dashboard as a source. 
+
+![](doc/source/images/After_Data_added.jpg)
 
 #### (iii) Creating the Dashboard
 
