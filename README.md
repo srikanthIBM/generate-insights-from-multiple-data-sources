@@ -276,7 +276,7 @@ The IBM Cognos Dashboard Embedded lets you, the developer, painlessly add end-to
 ![](doc/source/images/Add_source_2_Dashboard.png)
 
 
-* Connect to the DB2 Warehouse databse
+* Connect to the DB2 Warehouse databse(DASH5989. See below screenshot for details.
 
 ![](doc/source/images/Connection_Source.png)
 
