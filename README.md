@@ -250,6 +250,17 @@ IBM® Cognos Dashboard Embedded Analytics provides developers the ability to emb
 You as a developer have the flexibility to define the user workflow and control the options available to users. You can choose from a guided exploration of the analysis through authored fixed dashboards, to a free-form analytic exploration environment in which users choose their own visualizations – and virtually anything in between.
 The IBM Cognos Dashboard Embedded lets you, the developer, painlessly add end-to-end data visualization capabilities to your application so your users can easily drag and drop to quickly find valuable insight and create visualizations on their own.
 
+* Key Features of IBM Cognos Dashboard Embedded are as follows:
+
+- Live connection to underlying data
+- Interactive dashboards produce visualizations directly from your data in real-time.
+- Smart creation of visualizations
+- Smart data analysis and visualization capabilities help users discover underlying patterns and meanings in their data.
+- Interactive exploration of data
+- Data can be explored using filtering and navigation paths.
+- Embedded in your application
+- Because dashboards are fully embedded, dashboards are integrated into your application's context, keeping users engaged.
+
 #### Steps to create a Dashboard
 
 #### (i) Provisioning a Dashboard Embedded analytics service Instance to the Watson Studio Project
