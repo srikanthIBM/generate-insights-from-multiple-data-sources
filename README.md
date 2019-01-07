@@ -341,7 +341,7 @@ Under Gross Profit and Revenue Analysis tab, we would create 6 widgets.
 
 # Sample output
 
-![](doc/source/images/sample_output)
+![](doc/source/images/sample_output.png)
 
 
 
